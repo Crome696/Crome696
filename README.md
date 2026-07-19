@@ -19,6 +19,8 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 
 ## Tech Stack
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
@@ -55,6 +57,8 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
     </td>
   </tr>
 </table>
+
+</div>
 
 ## Project Timeline
 
