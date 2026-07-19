@@ -19,20 +19,42 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 
 ## Tech Stack
 
-<div align="center">
-
-![Pascal Script](https://img.shields.io/badge/Pascal%20Script-39457E?style=for-the-badge)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Pascal%20Script-39457E?style=flat-square" alt="Pascal Script" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&amp;logo=delphi&amp;logoColor=white" alt="Delphi" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square" alt="Lua" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" alt="Angular" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+</table>
 
 ## Project Timeline
 
