@@ -22,36 +22,36 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Pascal%20Script-39457E?style=flat-square" alt="Pascal Script" />
+      <img src="images/badges/pascal-script.png" alt="Pascal Script" height="20" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&amp;logo=delphi&amp;logoColor=white" alt="Delphi" />
+      <img src="images/badges/delphi.png" alt="Delphi" height="20" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square" alt="Lua" />
+      <img src="images/badges/lua.png" alt="Lua" height="20" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
+      <img src="images/badges/dotnet.png" alt=".NET" height="20" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#" />
+      <img src="images/badges/csharp.png" alt="C#" height="20" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+      <img src="images/badges/python.png" alt="Python" height="20" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+      <img src="images/badges/java.png" alt="Java" height="20" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+      <img src="images/badges/spring-boot.png" alt="Spring Boot" height="20" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" alt="Angular" />
+      <img src="images/badges/angular.png" alt="Angular" height="20" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+      <img src="images/badges/typescript.png" alt="TypeScript" height="20" />
     </td>
   </tr>
 </table>
