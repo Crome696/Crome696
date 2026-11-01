@@ -29,46 +29,61 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 
 ## Tech Stack
 
-<div align="center">
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br />
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/badges/pascal-script.png" alt="Pascal Script" height="20" />
-    </td>
-    <td align="center">
-      <img src="images/badges/delphi.png" alt="Delphi" height="20" />
-    </td>
-    <td align="center">
-      <img src="images/badges/lua.png" alt="Lua" height="20" />
-    </td>
-    <td align="center">
-      <img src="images/badges/dotnet.png" alt=".NET" height="20" />
-    </td>
-    <td align="center">
-      <img src="images/badges/csharp.png" alt="C#" height="20" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="images/badges/python.png" alt="Python" height="20" />
-    </td>
-    <td align="center">
-      <img src="images/badges/java.png" alt="Java" height="20" />
-    </td>
-    <td align="center">
-      <img src="images/badges/spring-boot.png" alt="Spring Boot" height="20" />
-    </td>
-    <td align="center">
-      <img src="images/badges/angular.png" alt="Angular" height="20" />
-    </td>
-    <td align="center">
-      <img src="images/badges/typescript.png" alt="TypeScript" height="20" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="images/badges/csharp.png" alt="C#" height="28" />
+  <img src="images/badges/java.png" alt="Java" height="28" />
+  <img src="images/badges/python.png" alt="Python" height="28" />
+  <img src="images/badges/typescript.png" alt="TypeScript" height="28" />
+  <img src="images/badges/lua.png" alt="Lua" height="28" />
+  <img src="images/badges/pascal-script.png" alt="Pascal Script" height="28" />
+  <img src="images/badges/delphi.png" alt="Delphi" height="28" />
+</p>
 
-</div>
+</details>
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br />
+
+<p align="center">
+  <img src="images/badges/react.png" alt="React" height="28" />
+  <img src="images/badges/angular.png" alt="Angular" height="28" />
+  <img src="images/badges/tailwind-css.png" alt="Tailwind CSS" height="28" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>Backend &amp; Cloud</b></summary>
+<br />
+
+<p align="center">
+  <img src="images/badges/nodejs.png" alt="Node.js" height="28" />
+  <img src="images/badges/express.png" alt="Express.js" height="28" />
+  <img src="images/badges/nestjs.png" alt="NestJS" height="28" />
+  <img src="images/badges/spring-boot.png" alt="Spring Boot" height="28" />
+  <img src="images/badges/dotnet.png" alt=".NET" height="28" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>Database &amp; Tools</b></summary>
+<br />
+
+<p align="center">
+  <img src="images/badges/mongodb.png" alt="MongoDB" height="28" />
+  <img src="images/badges/postgresql.png" alt="PostgreSQL" height="28" />
+  <img src="images/badges/sqlite.png" alt="SQLite" height="28" />
+  <img src="images/badges/git.png" alt="Git" height="28" />
+  <img src="images/badges/postman.png" alt="Postman" height="28" />
+</p>
+
+</details>
 
 ## Project Timeline
 
