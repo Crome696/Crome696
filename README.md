@@ -85,6 +85,30 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 
 </details>
 
+<details open>
+<summary><b>AI / SI Experience</b></summary>
+<br />
+
+<p align="center">
+  <img src="images/badges/openai-codex.svg" alt="OpenAI Codex" height="28" />
+  <img src="images/badges/claude-code.svg" alt="Anthropic Claude Code" height="28" />
+  <img src="images/badges/nous-hermes.svg" alt="NousResearch Hermes" height="28" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>AI / SI Tools</b></summary>
+<br />
+
+<p align="center">
+  <img src="images/badges/langfuse.svg" alt="Langfuse" height="28" />
+  <img src="images/badges/memos.svg" alt="MemOS" height="28" />
+  <img src="images/badges/litellm.svg" alt="LiteLLM" height="28" />
+</p>
+
+</details>
+
 ## Project Timeline
 
 <table>
