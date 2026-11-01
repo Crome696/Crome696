@@ -129,7 +129,7 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
     <td width="120"><strong>2026</strong></td>
     <td width="220">
       <a href="https://github.com/Crome696/GitHub-Img-Resize">
-        <img src="https://opengraph.githubassets.com/1/Crome696/GitHub-Img-Resize" alt="GitHub-Img-Resize preview" width="210" />
+        <img src="images/portfolio-timeline/github-img-resize-preview.png" alt="GitHub-Img-Resize preview" width="210" />
       </a>
     </td>
     <td>
@@ -141,7 +141,7 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
     <td width="120"><strong>2026</strong></td>
     <td width="220">
       <a href="https://github.com/Crome696/Ungate-Standalone">
-        <img src="https://opengraph.githubassets.com/1/Crome696/Ungate-Standalone" alt="Ungate-Standalone preview" width="210" />
+        <img src="images/portfolio-timeline/ungate-standalone-preview.png" alt="Ungate-Standalone preview" width="210" />
       </a>
     </td>
     <td>
@@ -153,12 +153,12 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
     <td width="120"><strong>2026</strong></td>
     <td width="220">
       <a href="https://github.com/Crome696/DuckDNSUpdater">
-        <img src="https://opengraph.githubassets.com/1/Crome696/DuckDNSUpdater" alt="DuckDNSUpdater preview" width="210" />
+        <img src="images/portfolio-timeline/duckdnsupdater-preview.jpg" alt="DuckDNSUpdater preview" width="210" />
       </a>
     </td>
     <td>
       <strong><a href="https://github.com/Crome696/DuckDNSUpdater">DuckDNSUpdater</a></strong><br />
-      Portable .NET 8 WinForms app that keeps a DuckDNS domain updated on a configurable interval.
+      Portable .NET 10 WinForms app that keeps a DuckDNS domain updated on a configurable interval.
     </td>
   </tr>
   <tr>
