@@ -1,0 +1,37 @@
+name: Update trophies
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - .github/workflows/trophies.yml
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Pinned to a commit of ryo-ma/github-profile-trophy
+      - uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c
+        with:
+          username: Crome696
+          output_path: images/trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: darkhub
+
+      - name: Commit updated trophies
+        run: |
+          if [ -n "$(git status --porcelain images/trophies.svg)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add images/trophies.svg
+            git commit -m "Update trophies"
+            git push
+          fi
