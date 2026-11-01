@@ -136,6 +136,42 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 
 <table>
   <tr>
+    <td width="120"><strong>2026</strong></td>
+    <td width="220">
+      <a href="https://github.com/Crome696/GitHub-Img-Resize">
+        <img src="images/portfolio-timeline/github-img-resize-preview.png" alt="GitHub-Img-Resize preview" width="210" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/Crome696/GitHub-Img-Resize">GitHub-Img-Resize</a></strong><br />
+      Python desktop tool that turns an image into a file of exactly 999 KB for GitHub uploads, localized in nine languages.
+    </td>
+  </tr>
+  <tr>
+    <td width="120"><strong>2026</strong></td>
+    <td width="220">
+      <a href="https://github.com/Crome696/Ungate-Standalone">
+        <img src="images/portfolio-timeline/ungate-standalone-preview.png" alt="Ungate-Standalone preview" width="210" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/Crome696/Ungate-Standalone">Ungate-Standalone</a></strong><br />
+      Standalone TypeScript desktop host with a local OpenAI-compatible proxy, dashboard, and optional Cloudflare tunnel for Cursor.
+    </td>
+  </tr>
+  <tr>
+    <td width="120"><strong>2026</strong></td>
+    <td width="220">
+      <a href="https://github.com/Crome696/DuckDNSUpdater">
+        <img src="images/portfolio-timeline/duckdnsupdater-preview.jpg" alt="DuckDNSUpdater preview" width="210" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/Crome696/DuckDNSUpdater">DuckDNSUpdater</a></strong><br />
+      Portable .NET 10 WinForms app that keeps a DuckDNS domain updated on a configurable interval.
+    </td>
+  </tr>
+  <tr>
     <td width="120"><strong>Since 2024</strong></td>
     <td width="220">
       <a href="https://crome696.github.io/projects/mediamultiverse">
