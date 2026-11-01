@@ -8,6 +8,10 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 
 [Portfolio](https://crome696.github.io/) &middot; [Projects](https://crome696.github.io/projects) &middot; [Stack](https://crome696.github.io/stack)
 
+<a href="https://www.linkedin.com/in/jan-s-0801a5168/"><img src="https://img.shields.io/badge/LinkedIn-Jan%20S.-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://cursor.com/@crome696"><img src="https://img.shields.io/badge/Cursor-@crome696-000000?logo=cursor&logoColor=white" alt="Cursor" /></a>
+<a href="https://chatgpt.com/u/jsiems87"><img src="https://img.shields.io/badge/ChatGPT-jsiems87-10A37F?logo=openai&logoColor=white" alt="ChatGPT" /></a>
+
 </div>
 
 ## Focus
@@ -108,6 +112,12 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 </p>
 
 </details>
+
+## AI Usage
+
+<p align="center">
+  <img src="images/ai-usage.svg" alt="Daily AI token usage of Claude Code, Codex and Cursor" width="100%" />
+</p>
 
 ## GitHub Stats
 
