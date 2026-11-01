@@ -27,14 +27,6 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 
 </div>
 
-## Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Crome696&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## Tech Stack
 
 <div align="center">
