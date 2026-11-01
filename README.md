@@ -22,7 +22,7 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="images/trophies.svg" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-blush-xi.vercel.app/?username=Crome696&row=1&column=8&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="GitHub Trophies" />
 </a>
 
 </div>
