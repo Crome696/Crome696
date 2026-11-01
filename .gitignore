@@ -1,1 +1,6 @@
 /.idea/
+
+# Local profile handles for scripts/ai-usage.mjs
+/.env
+# Aggregated usage history and ChatGPT import, kept local only
+/data/
