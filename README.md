@@ -109,6 +109,19 @@ I build reliable software, enable teams, and turn messy ideas into maintainable 
 
 </details>
 
+## GitHub Stats
+
+<p align="center" width="100%">
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=Crome696&show_icons=true&layout=compact&hide_progress=true&theme=tokyonight" alt="Crome696" width="44%">
+</p>
+<p>
+  <a href="https://github.com/Crome696">
+    <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=Crome696&theme=tokyonight">
+  </a>
+</p>
+
+[![Crome696's GitHub Activity Graph](https://github-readme-activity-graph-lake-five.vercel.app/graph?username=Crome696&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Project Timeline
 
 <table>
